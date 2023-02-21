@@ -24,6 +24,14 @@
         <country>US</country>
     </company>
     <company>
+        <conid>386752917</conid>
+        <symbol>BNTX</symbol>
+        <name>BioNTech SE-ADR</name>
+        <taxNumber>306280123</taxNumber>
+        <address>An der Goldgrube 12, Mainz, Rheinland-Pfalz 55131</address>
+        <country>DE</country>
+    </company>
+    <company>
         <symbol>CSCO</symbol>
         <name>Cisco Systems Inc</name>
         <taxNumber>770059951</taxNumber>
